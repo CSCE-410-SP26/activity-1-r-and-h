@@ -1,0 +1,3 @@
+1. Number of files in root directory: 22 excluding ., .. and testdir
+2. Available user programs in xv6: 19
+
